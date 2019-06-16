@@ -2,6 +2,7 @@
     "users":[
         {
             "id":"1",
+            "username":"sam",
             "firstName":"Sam",
             "lastName":"Miller",
             "email":"sam@gmail.com",
@@ -11,6 +12,7 @@
         },
         {
             "id":"2",
+            "username":"jenny",
             "firstName":"Jenny",
             "lastName":"Lawrence",
             "email":"Jenny@gmail.com",
@@ -20,6 +22,7 @@
         },
         {
             "id":"3",
+            "username":"alan",
             "firstName":"Alan",
             "lastName":"Walker",
             "email":"alan@gmail.com",
