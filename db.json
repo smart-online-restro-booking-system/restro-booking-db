@@ -1,0 +1,29 @@
+{
+    "users":[
+        {
+            "id":"1",
+            "firstName":"Sam",
+            "lastName":"Miller",
+            "email":"sam@gmail.com",
+            "mobile":"4564564567",
+            "password":"sam"
+        },
+        {
+            "id":"2",
+            "firstName":"Jenny",
+            "lastName":"Lawrence",
+            "email":"Jenny@gmail.com",
+            "mobile":"4564564567",
+            "password":"jenny"
+        },
+        {
+            "id":"3",
+            "firstName":"Alan",
+            "lastName":"Walker",
+            "email":"alan@gmail.com",
+            "mobile":"4564564567",
+            "password":"alan"
+        }
+    ]
+
+}
