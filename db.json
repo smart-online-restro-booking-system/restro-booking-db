@@ -1,0 +1,34 @@
+{
+    "users":[
+        {
+            "id":"1",
+            "username":"sam",
+            "firstName":"Sam",
+            "lastName":"Miller",
+            "email":"sam@gmail.com",
+            "mobile":"4564564567",
+            "password":"sam",
+            "isLoggedIn":true
+        },
+        {
+            "id":"2",
+            "username":"jenny",
+            "firstName":"Jenny",
+            "lastName":"Lawrence",
+            "email":"Jenny@gmail.com",
+            "mobile":"4564564567",
+            "password":"jenny",
+            "isLoggedIn":true
+        },
+        {
+            "id":"3",
+            "username":"alan",
+            "firstName":"Alan",
+            "lastName":"Walker",
+            "email":"alan@gmail.com",
+            "mobile":"4564564567",
+            "password":"alan",
+            "isLoggedIn":false
+        }
+    ]
+}

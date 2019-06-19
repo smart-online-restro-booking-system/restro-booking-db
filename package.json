@@ -1,0 +1,23 @@
+{
+  "name": "restro-booking-db",
+  "version": "1.0.0",
+  "description": "This is database for Smart Online Restaurant Booking System",
+  "main": "index.js",
+  "scripts": {
+    "json:server": "json-server --port 2000 --watch db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smart-online-restro-booking-system/restro-booking-db.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smart-online-restro-booking-system/restro-booking-db/issues"
+  },
+  "homepage": "https://github.com/smart-online-restro-booking-system/restro-booking-db#readme",
+  "dependencies": {
+    "json-server": "^0.15.0"
+  }
+}
