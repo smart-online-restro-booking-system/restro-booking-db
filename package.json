@@ -4,7 +4,7 @@
   "description": "This is database for Smart Online Restaurant Booking System",
   "main": "index.js",
   "scripts": {
-    "json:server": "json-server --watch db.json"
+    "json:server": "json-server --port 2000 --watch db.json"
   },
   "repository": {
     "type": "git",
